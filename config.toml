@@ -1,7 +1,7 @@
 # Site settings
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Hugo Freelancer Theme"
+title = "Varun On Air"
 theme = "hugo-freelancer-theme"
 
 
