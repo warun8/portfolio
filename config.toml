@@ -1,4 +1,4 @@
-baseurl = "https://example.org/"
+baseurl = "https://varunonair.netlify.app/"
 languageCode = "en-us"
 title = "Varun On Air"
 theme = "hugo-freelancer-theme"
