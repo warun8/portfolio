@@ -1,119 +1,63 @@
-# Site settings
 baseurl = "https://example.org/"
 languageCode = "en-us"
-title = "Hugo Freelancer Theme"
 theme = "hugo-freelancer-theme"
-
-
+title = "Hugo Freelancer Theme"
 [params]
-
-    # You can use Markdown syntax for urls [text](//url.to/source) for
-    # most longer texts.
-
-    # To provide some metadata for search engines feel free to add a few
-    # information about you and your website.
-    name = "Mr. Hugo"
-    description = "My awesome description"
-
-    # Since this template is static, the contact form uses www.formspree.io as a
-    # proxy. The form makes a POST request to their servers to send the actual
-    # email. Visitors can send up to a 1000 emails each month for free.
-    #
-    # What you need to do for the setup?
-    #
-    # - set your email address under 'email' below
-    # - upload the generated site to your server
-    # - send a dummy email youself to confirm your account
-    # - click the confirm link in the email from www.formspree.io
-    # - you're done. Happy mailing!
-    email = "your@email.com"
-
-    # Custom assets
-	custom_css = []
-	custom_js  = []
-
-    [params.navigation]
-        brand = "Varun On Air"
-
-
-    [params.header]
-        # Copy your own image into './static/img/'' if you wish
-        image = "profile.png"
-        name = "Varun Raj Koppula"
-        subtitle = "Game Designer ● UI/UX Designer ● Product Designer & Manager ● Creative Writer & Storyboarder"
-
-
-    [params.portfolio]
-        # All projects defined in their own files. You can find example projects
-        # at 'exampleSite/data/projects'. Copy the 'projects' folder into the 'data' directory
-        # at the root of this Hugo site.
-        # For more informtion take a look at the README.
-        title = "Portfolio"
-
-        [params.portfolio.modal]
-            client = "Company"
-            date = "Date"
-            category = "Role"
-            buttontext = "Close"
-
-
-    [params.about]
-        title = "About"
-        # The about text is splitted into a left and right column
-        left = "I am a game designer with over five years of experience working on mobile free to play and serious games. I explore new design avenues not just in terms of game mechanics but also as Products, UX or solving real world problems."
-        right = "I have experience working on various aspects of Games or Products including but not limited to: Game Mechanics & Documentation, Balance, Creative Writing, Storyboarding, UI Wireframes & Mock Ups and Market Research."
-
-        [params.about.button]
-            text = "Check out my CV"
-            link = "//docs.google.com/document/d/1wUgsJlBL3qgPONrunk9OViTCu7vI8KDKsAZJsAR2lZM/edit?usp=sharing"
-            icon = "file"
-
-
-    [params.contact]
-        title = "Contact"
-
-        # 'error' defines error messages for invalid inputs
-        [params.contact.form.name]
-            text = "Name"
-            error = "Please enter your name."
-
-        [params.contact.form.email]
-            text = "Email Address"
-            error = "Please enter your email address."
-
-        [params.contact.form.phone]
-            text = "Phone Number"
-            error = "Please enter your phone number."
-
-        [params.contact.form.message]
-            text = "Message"
-            error = "Please enter a message."
-
-        [params.contact.form.button]
-            text = "Send"
-
-
-    [params.footer]
-        copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
-
-        [params.footer.location]
-            title = "Location"
-            # Postal address (add as many lines as necessary)
-            address = ["Hyderabad, India"]
-
-        [params.footer.social]
-            title = "Around the web"
-            # All icons using Fontawesome's icon font. Look at fortawesome.github.io/Font-Awesome/icons/
-            # for more icons. The icons are represented by their corresponding
-            # CSS class.
-            [[params.footer.social.networks]]
-                icon = "fa-linkedin"
-                link = "//linkedin.com/in/varunkoppula/"
-
-            [[params.footer.social.networks]]
-                icon = "fa-behance"
-                link=  "//www.behance.net/kvarunraj"
-
-        [params.footer.credits]
-            title = "Personal Projects"
-            text = "You can view my other personal projects on [itch.io](//varunraj.itch.io/)."
+custom_css = []
+custom_js = []
+description = "My awesome description"
+email = "your@email.com"
+name = "Mr. Hugo"
+[params.about]
+left = "I am a game designer with over five years of experience working on mobile free to play and serious games. I explore new design avenues not just in terms of game mechanics but also as Products, UX or solving real world problems."
+right = "I have experience working on various aspects of Games or Products including but not limited to: Game Mechanics & Documentation, Balance, Creative Writing, Storyboarding, UI Wireframes & Mock Ups and Market Research."
+title = "About"
+[params.about.button]
+icon = "file"
+link = "//docs.google.com/document/d/1wUgsJlBL3qgPONrunk9OViTCu7vI8KDKsAZJsAR2lZM/edit?usp=sharing"
+text = "Check out my CV"
+[params.contact]
+title = "Contact"
+[params.contact.form.button]
+text = "Send"
+[params.contact.form.email]
+error = "Please enter your email address."
+text = "Email Address"
+[params.contact.form.message]
+error = "Please enter a message."
+text = "Message"
+[params.contact.form.name]
+error = "Please enter your name."
+text = "Name"
+[params.contact.form.phone]
+error = "Please enter your phone number."
+text = "Phone Number"
+[params.footer]
+copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
+[params.footer.credits]
+text = "You can view my other personal projects on [itch.io](//varunraj.itch.io/)."
+title = "Personal Projects"
+[params.footer.location]
+address = ["Hyderabad, India"]
+title = "Location"
+[params.footer.social]
+title = "Around the web"
+[[params.footer.social.networks]]
+icon = "fa-linkedin"
+link = "//linkedin.com/in/varunkoppula/"
+[[params.footer.social.networks]]
+icon = "fa-behance"
+link = "//www.behance.net/kvarunraj"
+[params.header]
+image = "profile.png"
+name = "Varun Raj Koppula"
+subtitle = "Game Designer ● UI/UX Designer ● Product Designer & Manager ● Creative Writer & Storyboarder"
+[params.navigation]
+brand = "Varun On Air"
+[params.portfolio]
+title = "Portfolio"
+[params.portfolio.modal]
+buttontext = "Close"
+category = "Role"
+client = "Company"
+date = "Date"
