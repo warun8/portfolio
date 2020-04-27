@@ -5,12 +5,12 @@ theme = "hugo-freelancer-theme"
 [params]
 custom_css = []
 custom_js = []
-description = "My awesome description"
-email = "your@email.com"
-name = "Mr. Hugo"
+description = "Learn about me and my work"
+email = "varunrajk2020@gmail.com"
+name = "Varun Raj Koppula"
 [params.about]
-left = "I am a game designer with over five years of experience working on mobile free to play and serious games. I explore new design avenues not just in terms of game mechanics but also as Products, UX or solving real world problems."
-right = "I have experience working on various aspects of Games or Products including but not limited to: Game Mechanics & Documentation, Balance, Creative Writing, Storyboarding, UI Wireframes & Mock Ups and Market Research."
+left = "I am a game designer with over five years of experience working on mobile free to play and serious games. I explore new design avenues not just in terms of game mechanics but also as Products, UX or solving real world problems. "
+right = "I have experience working on various aspects of Games or Products including but not limited to: Game Mechanics & Documentation, Balance, Creative Writing, Storyboarding, UI Wireframes & Mock Ups and Market Research. I can speak English,Telugu, Hindi and even some Japanese (JLPT Level 3).　日本語が分かります！"
 title = "About"
 [params.about.button]
 icon = "file"
