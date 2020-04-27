@@ -2,7 +2,6 @@ baseurl = "https://example.org/"
 languageCode = "en-us"
 title = "Varun On Air"
 theme = "hugo-freelancer-theme"
-title = "Hugo Freelancer Theme"
 [params]
 custom_css = []
 custom_js = []
