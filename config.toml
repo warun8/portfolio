@@ -1,9 +1,6 @@
 baseurl = "https://example.org/"
 languageCode = "en-us"
-<<<<<<< HEAD
 title = "Varun On Air"
-=======
->>>>>>> bc6859d565512e3d60d7a7e016208f9be0548cc8
 theme = "hugo-freelancer-theme"
 title = "Hugo Freelancer Theme"
 [params]
