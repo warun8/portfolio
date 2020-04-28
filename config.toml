@@ -9,13 +9,13 @@ description = "Learn about me and my work"
 email = "varunrajk2020@gmail.com"
 name = "Varun Raj Koppula"
 [params.about]
-left = "I am a game designer with over five years of experience working on mobile free to play and serious games. I explore new design avenues not just in terms of game mechanics but also as Products, UX or solving real world problems. 日本語も分かります！"
-right = "I have experience working on various aspects of Games or Products including but not limited to: Game Mechanics & Documentation, Balance, Creative Writing, Storyboarding, UI Wireframes & Mock Ups and Market Research. I can speak English, Telugu, Hindi and even some Japanese (JLPT Level 3).　"
+left = "I am a game designer with over five years of experience working on mobile free to play and serious games. I explore new design avenues not just in terms of game mechanics but also as Products and User Experience, acting as an user advocate with an understanding of the business requirements. 日本語も分かります！"
+right = "I have experience working on various aspects of Games or Products including but not limited to: Game Mechanics & Documentation, Balance, Creative Writing, Storyboarding, UI Wireframes & Mock Ups and Market Research. I can speak in English, Telugu, Hindi and even some Japanese (JLPT Level 3)."
 title = "About"
 [params.about.button]
 icon = "file"
 link = "//docs.google.com/document/d/1wUgsJlBL3qgPONrunk9OViTCu7vI8KDKsAZJsAR2lZM/edit?usp=sharing"
-text = "Check out my CV"
+text = "CV and contact details"
 [params.contact]
 title = "Contact"
 [params.contact.form.button]
