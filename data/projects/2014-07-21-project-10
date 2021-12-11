@@ -1,0 +1,8 @@
+modalID: 10
+title: Systems & Economy Design Sample Work 1
+date: 2021-12-11
+img: battle.png
+client: Personal Project
+clientLink: "//docs.google.com/spreadsheets/d/1mkBeVXoVIcG6LSZtXXovJgFW030Z9YjEGo396HMR6Ts/edit?usp=sharing//"
+category: Game Designer
+description: Model exploring the LTV impact of the Battle Pass. We compare how much average spend it takes for players to progress content with and without battle pass to calculate an estimate - the assumptions such as LTV duration, cohort size, average spend, average play duration can be changed in a separate tab.

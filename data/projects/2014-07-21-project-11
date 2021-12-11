@@ -1,0 +1,8 @@
+modalID: 11
+title: Systems & Economy Design Sample Work 2
+date: 2021-12-11
+img: crafting.png
+client: Personal Project
+clientLink: "//docs.google.com/spreadsheets/d/1hmR7oiqdC3bGIi8n_aSRvCLc8i8X1C9w3dQTZGjPBU8/edit?usp=sharing/"
+category: Game Designer
+description: Model exploring progression pacing and duration for a Crafting system in a game, similar to Last Day on Earth game on Android/iOS. The model looks at the amount of XP and resources earned per day and estimates the duration it takes for the player to unlock all Crafting recipes, begin crafting and the impact of a social mechanic like a guild finally determining the duration it takes to complete crafting all items.
