@@ -61,3 +61,8 @@ buttontext = "Close"
 category = "Role"
 client = "Company"
 date = "Date"
+[build]
+command = "hugo"
+publish = "public"
+[build.environment]
+HUGO_VERSION = "0.14"
