@@ -1,8 +1,0 @@
-modalID: 10
-title: Word Life
-date: 2021-12-11
-img: battle.png
-client: Personal Project
-clientLink: "https://docs.google.com/spreadsheets/d/1mkBeVXoVIcG6LSZtXXovJgFW030Z9YjEGo396HMR6Ts/edit?usp=sharing"
-category: Game Designer
-description: Exploring a Battle Pass model that estimates the impact on the LTV of the game. We compare the potential average spend of the player with and without the Battle Pass and calculcate the LTV impact. The assumptions can be changed in another tab to see how it changes the model.
