@@ -1,4 +1,4 @@
-baseurl = "https://varunonair.netlify.app/"
+baseurl = "https://varunonair.netlify.app"
 languageCode = "en-us"
 title = "Varun On Air"
 theme = "hugo-freelancer-theme"
@@ -35,7 +35,7 @@ text = "Phone Number"
 [params.footer]
 copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.io)."
 [params.footer.credits]
-text = "You can view my other personal projects on [itch.io](//varunraj.itch.io/)."
+text = "You can view my other personal projects on [itch.io](//varunraj.itch.io)."
 title = "Personal Projects"
 [params.footer.location]
 address = ["Pune, India"]
