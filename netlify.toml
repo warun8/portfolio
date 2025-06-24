@@ -6,4 +6,4 @@ TZ = "America/Los_Angeles"
 
 [build]
 publish = "public"
-command = "git config core.quotepath false && hugo"
+command = "hugo"
