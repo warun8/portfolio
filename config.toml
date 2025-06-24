@@ -38,7 +38,7 @@ copyright = "Published under the Apache License 2.0. Powered by [Hugo](//gohugo.
 text = "You can view my other personal projects on [itch.io](//varunraj.itch.io/)."
 title = "Personal Projects"
 [params.footer.location]
-address = ["Hyderabad, India"]
+address = ["Pune, India"]
 title = "Location"
 [params.footer.social]
 title = "Around the web"
